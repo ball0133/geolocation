@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    font-family: "Helvetica", sans-serif;
+    font-weight: 100;
+    color: #3AE5AE;
+}
+h1{
+    font-size: 38px;
+    margin-top: 70px;
+    margin-bottom: -10px;
+}
+p{
+    margin-bottom: 40px;
+    color: #ccc;
+}
+canvas{
+    border: 1px solid #ccc;
+}
