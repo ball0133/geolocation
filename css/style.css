@@ -15,4 +15,5 @@ p{
 }
 canvas{
     border: 1px solid #ccc;
+    max-width: 100%;
 }
